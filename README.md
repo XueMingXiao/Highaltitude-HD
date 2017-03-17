@@ -1,0 +1,21 @@
+# Highaltitude-HD
+
+(i) Direction
+
+<1> Download the all the documents from: https://github.com/XueMingXiao/Highaltitude-HD
+
+<2> Unzip the 'ori.zip' to get test images.Put these images under the foler 'Data'.
+
+<3> Put the folder 'Data' and 'Code' under the same folder. Run Highaltitude-HD.exe
+
+<4> The obtained Detection results are in the folder: 'Data/Result'
+
+(ii) Notes
+
+<1> .
+
+<2> You can put your own Dataset under the folder 'Data'.
+
+(iii) Warning
+
+The program is for educational and research use only. Any commercial use is strictly prohibited without the authors' consent.
