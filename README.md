@@ -8,7 +8,7 @@ Anyone who use our package please cite the above paper. Further tests or optimat
 
 <1> Download the all the documents from: https://github.com/XueMingXiao/Highaltitude-HD
 
-<2> Unzip the 'ori.zip' to get test images.Put these images under the foler 'Data'.
+<2> Unzip the 'ori.zip' to get test data(DEM data).Put these data under the foler 'Data'.
 
 <3> Put the folder 'Data' and 'Code' under the same folder. Run Highaltitude-HD.exe
 
