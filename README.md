@@ -1,6 +1,6 @@
 # Highaltitude-HD
 ------------------------
-This package is the beta version of algorithms for the following paper： Xiao, X., Cui, H., Yao, M., & Tian, Y. (2017). Autonomous rock detection on mars through region contrast. Advances in Space Research.https://doi.org/10.1016/j.asr.2017.04.028 
+This package is the beta version of algorithms for the following paper： Xiao, X., Yao, M., Cui, H., & Fu, Y. (2019). Safe Mars landing strategy: towards lidar-based high altitude hazard detection. Advances in Space Research.DOI: 10.1016/j.asr.2019.01.005
 Anyone who use our package please cite the above paper. Further tests or optimation of proposed algorithm is welcome. For more, please contact e-mail: alexcapshow@gmail.com.
 ## Contents
 -----------------------------
